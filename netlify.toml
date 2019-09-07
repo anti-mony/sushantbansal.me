@@ -1,0 +1,11 @@
+[build]
+  base = ""
+
+  publish = "_site/"
+
+  # Default build command.
+  command = "jekyll build"
+
+[context.production]
+  
+[context.deploy-preview]
