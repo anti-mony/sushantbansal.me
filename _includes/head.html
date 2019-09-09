@@ -12,7 +12,9 @@
   {% endif %}
   
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}" />
-
+  <!-- Font Awesome  -->
+  <script src="https://kit.fontawesome.com/667b714b91.js"></script>
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
   {% include google_analytics.html %}
 
   {% if layout.common-ext-css %}
@@ -116,7 +118,5 @@
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.avatar | absolute_url }}" />
   {% endif %}
-  <!-- Font Awesome  -->
-  <script src="https://kit.fontawesome.com/667b714b91.js"></script>
-  <link rel="shortcut icon" type="image/png" href="/favicon.png">
+
 </head>
