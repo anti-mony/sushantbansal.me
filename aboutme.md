@@ -10,7 +10,7 @@ _Hi I'm **Sushant Bansal** and you can learn a little something about me here. F
 
 <i class="fas fa-user-graduate">&nbsp;&nbsp;&nbsp;</i>Enrolled in the Masters Program in Computer Science (*Data Analytics Track*) at the University of Chicago. I started in September 2018 and expect to graduate in December 2019. Also, I got my under graduate degree in Computer Science and Engineering at Shiv Nagar University, India from 2014 to 2018. 
 
-<i class="fas fa-file">&nbsp;&nbsp;&nbsp;</i>Also here is my frequently updated <a href="https://docs.google.com/document/d/1l1l6blu_s9OkyvVgLQ1pyq2Y7ThICuEnTe-y0WhcUms/export?format=pdf" target="_blank">resume</a>. <span style="color:#673ab7">Also, I'm loking for job opportunities.</span> Feel free to send me an email.
+<i class="fas fa-file">&nbsp;&nbsp;&nbsp;</i>Also here is my frequently updated <a href="https://docs.google.com/document/d/1GrdMX7xHfLJ88cEEGw9Na8gIZii9DTv4X7wjk9v6z5s/edit?usp=sharing" target="_blank">resume</a>. <span style="color:#673ab7">Also, I'm loking for job opportunities.</span> Feel free to send me an email.
 
 <i class="fas fa-book">&nbsp;&nbsp;&nbsp;</i>I'm currently reading the book **1984** by *George Orwell*. And I'm bummed by the similarities in teh current world and the book. 
 
