@@ -10,8 +10,8 @@ Let's begin
 
 ## Machine Learning (incl. NLP) 
 
-***Recursion Cellular Image Classification***  
-This is what I've just started working on. This is actually a Kaggle competetion <a href = "https://www.kaggle.com/c/recursion-cellular-image-classification" target = "_blank"> here </a>. The challenge here is to disentangle experimental noise from real biological signals. I'll update this, once I have results.
+<!-- ***Recursion Cellular Image Classification***  
+This is what I've just started working on. This is actually a Kaggle competetion <a href = "https://www.kaggle.com/c/recursion-cellular-image-classification" target = "_blank"> here </a>. The challenge here is to disentangle experimental noise from real biological signals. I'll update this, once I have results. -->
 
 ***Predicting NASDAQ Composite movements using News*** <a href="https://github.com/anti-mony/NASDAQ-Movement-Prediction" target="_blank"><i class="fab fa-github"></i></a>  
 I did this project very recently from July-August 2019, where I tried to predict how the NASDAQ Composite index moves based on the news that comes in daily, here is a <a href= "http://localhost:4000/2019-09-06-PredictNasdaqwithNews/" target="_blank">blog</a> for this.  
