@@ -14,7 +14,7 @@ Let's begin
 This is what I've just started working on. This is actually a Kaggle competetion <a href = "https://www.kaggle.com/c/recursion-cellular-image-classification" target = "_blank"> here </a>. The challenge here is to disentangle experimental noise from real biological signals. I'll update this, once I have results. -->
 
 ***Predicting NASDAQ Composite movements using News*** <a href="https://github.com/anti-mony/NASDAQ-Movement-Prediction" target="_blank"><i class="fab fa-github"></i></a>  
-I did this project very recently from July-August 2019, where I tried to predict how the NASDAQ Composite index moves based on the news that comes in daily, here is a <a href= "http://sushantbansal.me/2019-09-06-PredictNasdaqwithNews/" target="_blank">blog</a> for this.  
+I did this project very recently from July-August 2019, where I tried to predict how the NASDAQ Composite index moves based on the news that comes in daily, here is a <a href= "http://sushantbansal.me/2019-09-10-PredictNasdaqwithNews/" target="_blank">blog</a> for this.  
 ***TLDR**: I used RNNs to summarize text and used that to predict +ve/-ve movements of the index, I gathered data from sources online; cleaned and pre-processed it using NLTK and used PyTorch for deep learning.*
 
 ***Just Miscelaneous Models***  
