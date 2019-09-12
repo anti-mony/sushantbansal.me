@@ -6,7 +6,7 @@ subtitle: There's so much I want to say here ...
 
 _Hi I'm **Sushant Bansal** and you can learn a little something about me here. For more send me a email/message/tweet._
 
-<i class="fa fa-briefcase">&nbsp;&nbsp;&nbsp;</i>I'm currently a Data Analytics (ML) intern at the Enrico Fermi Institute, University of Chicago. I work with the network measurement data collected by the [perfSONAR](https://www.perfsonar.net/about/) toolkit.
+<i class="fa fa-briefcase">&nbsp;&nbsp;&nbsp;</i>I'm currently a Data Analytics (ML) intern at the Enrico Fermi Institute, University of Chicago. I work with the network measurement data collected by the [perfSONAR](https://www.perfsonar.net/about/) toolkit across the WLCG ad OSG.
 
 <i class="fas fa-user-graduate">&nbsp;&nbsp;&nbsp;</i>Enrolled in the Masters Program in Computer Science (*Data Analytics Track*) at the University of Chicago. I started in September 2018 and expect to graduate in December 2019. Also, I got my under graduate degree in Computer Science and Engineering at Shiv Nadar University, India from 2014 to 2018. 
 
