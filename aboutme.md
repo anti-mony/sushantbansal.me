@@ -8,6 +8,8 @@ _Hi I'm **Sushant Bansal** and you can learn a little something about me here. F
 
 <i class="fa fa-briefcase">&nbsp;&nbsp;&nbsp;</i>I'm currently a Data Analytics (ML) intern at the Enrico Fermi Institute, University of Chicago. I work with the network measurement data collected by the [perfSONAR](https://www.perfsonar.net/about/) toolkit across the WLCG ad OSG.
 
+<i class="fa fa-terminal">&nbsp;&nbsp;&nbsp;</i>I really like writing code and working with data. I' proficient in Python's data science stack (Numpy, Pandas, SciPy, Jupyter) and also PyTorch. I'm also good with querying databases SQL or NoSQL (Elasticsearch). I'm really really fascinated by libraries like PyTorch and SkLearn, they make my work so much more enjoyable. Also, I use vim or vscode (Yes! I like both). 
+
 <i class="fas fa-user-graduate">&nbsp;&nbsp;&nbsp;</i>Enrolled in the Masters Program in Computer Science (*Data Analytics Track*) at the University of Chicago. I started in September 2018 and expect to graduate in December 2019. Also, I got my under graduate degree in Computer Science and Engineering at Shiv Nadar University, India from 2014 to 2018. 
 
 <i class="fas fa-file">&nbsp;&nbsp;&nbsp;</i>Also here is my frequently updated <a href="https://docs.google.com/document/d/1GrdMX7xHfLJ88cEEGw9Na8gIZii9DTv4X7wjk9v6z5s/edit?usp=sharing" target="_blank">resume</a>. <span style="color:#673ab7">Also, I'm loking for job opportunities.</span> Feel free to send me an email.
