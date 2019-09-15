@@ -13,7 +13,7 @@ Let's begin
 <!-- ***Recursion Cellular Image Classification***  
 This is what I've just started working on. This is actually a Kaggle competetion <a href = "https://www.kaggle.com/c/recursion-cellular-image-classification" target = "_blank"> here </a>. The challenge here is to disentangle experimental noise from real biological signals. I'll update this, once I have results. -->
 
-***Aerial Cactus Identification***<a href="https://www.kaggle.com/antimony18/pytorch-cnn-model" target="_blank"><i class="fab fa-kaggle"></i></a>  
+***Aerial Cactus Identification*** <a href="https://www.kaggle.com/antimony18/pytorch-cnn-model" target="_blank"><i class="fab fa-kaggle"></i></a>  
 In this project, I tried to identify cacti in the aerial images taken by the research team of VIGIA project in Mexico. I was able to achieve an accuracy of *99.88%* using a Convolutional Neural Network written in PyTorch. This modesl had four convolutional layers, four pooling layers and three fully connected layers with dropout enabled between them. Also, I use early stopping in a way to reduce overfitting. This was a fun one! (Kaggle Link attached).
 
 ***Predicting NASDAQ Composite movements using News*** <a href="https://github.com/anti-mony/NASDAQ-Movement-Prediction" target="_blank"><i class="fab fa-github"></i></a>  
