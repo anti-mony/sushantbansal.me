@@ -10,8 +10,8 @@ Let's begin
 
 ## Machine Learning (incl. NLP) 
 
-<!-- ***Recursion Cellular Image Classification***  
-This is what I've just started working on. This is actually a Kaggle competetion <a href = "https://www.kaggle.com/c/recursion-cellular-image-classification" target = "_blank"> here </a>. The challenge here is to disentangle experimental noise from real biological signals. I'll update this, once I have results. -->
+***Steel Defect Detection*** <i class="fas fa-book-reader"></i>
+I'm now starting to learn object detection in two dimensional images. I like to learn by doing, so I'm going to do the Kaggle (https://www.kaggle.com/c/severstal-steel-defect-detection)[https://www.kaggle.com/c/severstal-steel-defect-detection] challenge. I'll be looking publicly available notebooks and papers to learn. This is exciting. 
 
 ***Aerial Cactus Identification*** <a href="https://www.kaggle.com/antimony18/pytorch-cnn-model" target="_blank"><i class="fab fa-kaggle"></i></a>  
 In this project, I tried to identify cacti in the aerial images taken by the research team of VIGIA project in Mexico. I was able to achieve an accuracy of *99%* using a Convolutional Neural Network written in PyTorch. I used dropouts and early stopping to reduce overfitting. The kaggle link will lead you to the kernel. 
