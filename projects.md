@@ -10,7 +10,7 @@ Let's begin
 
 ## Machine Learning (incl. NLP) 
 
-***Steel Defect Detection*** <i class="fas fa-book-reader"></i>
+***Steel Defect Detection*** <i class="fas fa-book-reader"></i>  
 I'm now starting to learn object detection in two dimensional images. I like to learn by doing, so I'm going to do the Kaggle [Severstal Steel Defect Detection Competetion](https://www.kaggle.com/c/severstal-steel-defect-detection). I'll be looking publicly available notebooks and papers to learn. This is exciting. 
 
 ***Aerial Cactus Identification*** <a href="https://www.kaggle.com/antimony18/pytorch-cnn-model" target="_blank"><i class="fab fa-kaggle"></i></a>  
