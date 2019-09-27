@@ -14,7 +14,7 @@ _Hi I'm **Sushant Bansal** and you can learn a little something about me here. F
 
 <i class="fas fa-file">&nbsp;&nbsp;&nbsp;</i>Also here is my frequently updated <a href="https://docs.google.com/document/d/1GrdMX7xHfLJ88cEEGw9Na8gIZii9DTv4X7wjk9v6z5s/edit?usp=sharing" target="_blank">resume</a>. <span style="color:#673ab7">Also, I'm loking for job opportunities.</span> Feel free to send me an email.
 
-<i class="fas fa-book">&nbsp;&nbsp;&nbsp;</i>I'm currently reading the book **1984** by *George Orwell*. And I'm bummed by the similarities in teh current world and the book. 
+<i class="fas fa-book">&nbsp;&nbsp;&nbsp;</i>I'm currently reading the book **Sapiens** by *Yuval Noah Harari*. It's been really interesting so far. 
 
 <i class="fas fa-music">&nbsp;&nbsp;&nbsp;</i>I absolutely enjoy listening to music. My favorite artist is *John Mayer* but I also like *Coldplay, Guns and Roses, James Bay, The Local Train* and various *Lo-fi* artists. 
 
